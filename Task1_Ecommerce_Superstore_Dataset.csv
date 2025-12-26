@@ -1,0 +1,251 @@
+Order ID,Order Date,Ship Date,Segment,Region,State,City,Category,Sub-Category,Product Name,Quantity,Sales,Profit
+CA-2025-1000,2024-04-12,2024-04-14,Home Office,East,Illinois,Los Angeles,Furniture,Chairs,Chairs Model-427,8,1511.04,112.1
+CA-2025-1001,2024-12-14,2024-12-15,Corporate,South,Texas,Chicago,Furniture,Bookcases,Bookcases Model-350,9,230.16,76.81
+CA-2025-1002,2024-09-27,2024-09-30,Corporate,Central,Illinois,New York,Office Supplies,Storage,Storage Model-275,1,243.08,2.88
+CA-2025-1003,2024-04-16,2024-04-20,Home Office,West,Florida,Los Angeles,Technology,Accessories,Accessories Model-701,9,756.08,-30.08
+CA-2025-1004,2024-03-12,2024-03-13,Corporate,Central,California,Chicago,Technology,Phones,Phones Model-553,6,1585.07,140.06
+CA-2025-1005,2024-07-07,2024-07-08,Consumer,West,California,Seattle,Technology,Phones,Phones Model-136,6,1851.31,473.29
+CA-2025-1006,2024-01-21,2024-01-23,Consumer,East,Washington,Seattle,Technology,Accessories,Accessories Model-415,4,840.68,136.16
+CA-2025-1007,2024-04-12,2024-04-18,Consumer,Central,Florida,Houston,Furniture,Chairs,Chairs Model-787,1,226.1,46.68
+CA-2025-1008,2024-05-01,2024-05-03,Home Office,West,California,Chicago,Office Supplies,Paper,Paper Model-895,8,3052.49,-44.68
+CA-2025-1009,2024-08-02,2024-08-05,Corporate,East,Florida,Miami,Technology,Accessories,Accessories Model-692,2,683.85,122.09
+CA-2025-1010,2024-11-26,2024-11-30,Consumer,Central,Texas,Chicago,Furniture,Tables,Tables Model-213,1,367.41,16.74
+CA-2025-1011,2024-03-28,2024-03-30,Home Office,Central,New York,Los Angeles,Technology,Machines,Machines Model-139,2,658.46,181.36
+CA-2025-1012,2024-04-09,2024-04-10,Corporate,West,California,Los Angeles,Office Supplies,Paper,Paper Model-400,1,61.39,11.25
+CA-2025-1013,2024-12-25,2024-12-29,Home Office,West,Washington,Chicago,Furniture,Tables,Tables Model-323,1,76.62,-0.81
+CA-2025-1014,2024-05-31,2024-06-04,Consumer,West,Texas,New York,Office Supplies,Storage,Storage Model-417,9,1981.05,-140.5
+CA-2025-1015,2024-05-10,2024-05-11,Consumer,East,Florida,Seattle,Office Supplies,Paper,Paper Model-448,1,113.51,-9.17
+CA-2025-1016,2024-05-29,2024-05-31,Consumer,West,Illinois,Los Angeles,Furniture,Tables,Tables Model-214,4,804.58,54.01
+CA-2025-1017,2024-11-04,2024-11-05,Home Office,Central,Texas,Seattle,Furniture,Chairs,Chairs Model-797,6,1019.15,20.01
+CA-2025-1018,2024-09-14,2024-09-20,Home Office,Central,California,Los Angeles,Furniture,Tables,Tables Model-422,7,1601.44,305.46
+CA-2025-1019,2024-12-09,2024-12-13,Consumer,West,Florida,Houston,Furniture,Tables,Tables Model-667,2,607.63,75.77
+CA-2025-1020,2024-10-20,2024-10-25,Home Office,West,New York,Miami,Furniture,Bookcases,Bookcases Model-139,6,1751.32,34.52
+CA-2025-1021,2024-07-10,2024-07-15,Consumer,South,Texas,Los Angeles,Furniture,Bookcases,Bookcases Model-965,7,1526.48,-50.13
+CA-2025-1022,2024-10-03,2024-10-06,Consumer,Central,California,Seattle,Furniture,Tables,Tables Model-139,2,665.02,-28.44
+CA-2025-1023,2024-06-09,2024-06-10,Corporate,East,Washington,Houston,Technology,Phones,Phones Model-958,2,367.46,106.23
+CA-2025-1024,2024-11-09,2024-11-10,Home Office,South,Illinois,Los Angeles,Office Supplies,Binders,Binders Model-848,7,2525.26,24.15
+CA-2025-1025,2024-01-22,2024-01-25,Consumer,West,Florida,New York,Furniture,Bookcases,Bookcases Model-388,1,47.09,9.1
+CA-2025-1026,2024-09-09,2024-09-12,Consumer,West,Texas,Miami,Technology,Machines,Machines Model-361,8,3062.17,810.89
+CA-2025-1027,2024-08-23,2024-08-26,Home Office,Central,Texas,Los Angeles,Technology,Accessories,Accessories Model-315,3,806.35,142.19
+CA-2025-1028,2024-12-10,2024-12-14,Corporate,West,New York,Houston,Technology,Machines,Machines Model-246,6,986.57,282.95
+CA-2025-1029,2024-02-18,2024-02-24,Corporate,East,New York,New York,Office Supplies,Binders,Binders Model-435,9,854.27,65.42
+CA-2025-1030,2024-02-28,2024-02-29,Consumer,Central,Washington,Chicago,Furniture,Chairs,Chairs Model-267,6,1212.54,400.5
+CA-2025-1031,2024-06-18,2024-06-22,Home Office,West,Illinois,Houston,Technology,Machines,Machines Model-191,9,845.39,-33.89
+CA-2025-1032,2024-07-06,2024-07-09,Corporate,Central,Washington,Houston,Office Supplies,Binders,Binders Model-452,7,582.44,-31.47
+CA-2025-1033,2024-09-27,2024-09-28,Home Office,West,California,New York,Office Supplies,Paper,Paper Model-670,9,2291.34,450.05
+CA-2025-1034,2024-07-08,2024-07-12,Home Office,West,California,Houston,Office Supplies,Paper,Paper Model-670,2,437.54,141.88
+CA-2025-1035,2024-06-23,2024-06-29,Consumer,West,Washington,New York,Technology,Machines,Machines Model-915,8,2197.09,580.03
+CA-2025-1036,2024-02-20,2024-02-24,Corporate,East,Illinois,Los Angeles,Furniture,Bookcases,Bookcases Model-780,8,2986.0,-195.92
+CA-2025-1037,2024-12-29,2025-01-04,Consumer,East,Washington,New York,Technology,Accessories,Accessories Model-880,2,444.52,11.43
+CA-2025-1038,2024-02-24,2024-02-27,Corporate,Central,Illinois,New York,Technology,Accessories,Accessories Model-462,4,963.02,306.86
+CA-2025-1039,2024-08-31,2024-09-06,Corporate,West,Illinois,Miami,Furniture,Chairs,Chairs Model-656,7,378.41,5.25
+CA-2025-1040,2024-11-15,2024-11-16,Corporate,West,Florida,New York,Furniture,Tables,Tables Model-444,4,1170.81,294.49
+CA-2025-1041,2024-05-10,2024-05-13,Corporate,East,Illinois,New York,Furniture,Tables,Tables Model-792,4,687.86,186.62
+CA-2025-1042,2024-11-02,2024-11-03,Corporate,West,New York,Chicago,Office Supplies,Binders,Binders Model-269,6,2346.93,288.56
+CA-2025-1043,2024-05-14,2024-05-19,Home Office,East,Illinois,Los Angeles,Furniture,Bookcases,Bookcases Model-455,6,1996.84,147.48
+CA-2025-1044,2024-01-21,2024-01-23,Consumer,West,Illinois,Miami,Technology,Machines,Machines Model-290,3,655.63,67.24
+CA-2025-1045,2024-11-24,2024-11-30,Home Office,Central,Illinois,Chicago,Furniture,Bookcases,Bookcases Model-766,9,601.42,1.28
+CA-2025-1046,2024-06-15,2024-06-17,Corporate,West,California,Seattle,Technology,Machines,Machines Model-521,2,693.16,208.1
+CA-2025-1047,2024-09-30,2024-10-02,Consumer,West,New York,Los Angeles,Office Supplies,Storage,Storage Model-799,6,1943.5,199.75
+CA-2025-1048,2024-03-29,2024-04-04,Corporate,South,New York,Los Angeles,Technology,Phones,Phones Model-106,7,631.0,187.47
+CA-2025-1049,2024-11-11,2024-11-14,Consumer,East,Washington,Seattle,Technology,Machines,Machines Model-232,9,1189.85,-62.39
+CA-2025-1050,2024-01-14,2024-01-19,Home Office,West,Florida,New York,Furniture,Chairs,Chairs Model-846,3,964.48,332.48
+CA-2025-1051,2024-08-29,2024-08-30,Consumer,West,Illinois,Chicago,Furniture,Tables,Tables Model-656,3,271.16,26.97
+CA-2025-1052,2024-09-21,2024-09-25,Consumer,South,Texas,Houston,Technology,Phones,Phones Model-925,7,2581.22,-202.56
+CA-2025-1053,2024-12-11,2024-12-12,Consumer,South,Florida,Miami,Furniture,Tables,Tables Model-860,4,725.28,-60.12
+CA-2025-1054,2024-02-22,2024-02-26,Consumer,East,Florida,Houston,Office Supplies,Paper,Paper Model-130,8,424.6,100.12
+CA-2025-1055,2024-12-05,2024-12-06,Consumer,South,New York,Seattle,Office Supplies,Storage,Storage Model-634,7,2309.89,454.05
+CA-2025-1056,2024-04-01,2024-04-07,Corporate,Central,Florida,Los Angeles,Furniture,Chairs,Chairs Model-525,5,809.67,211.29
+CA-2025-1057,2024-09-20,2024-09-25,Consumer,South,Illinois,Los Angeles,Office Supplies,Paper,Paper Model-493,7,1540.49,-81.01
+CA-2025-1058,2024-02-04,2024-02-08,Consumer,Central,Illinois,Miami,Furniture,Tables,Tables Model-771,3,188.03,-15.79
+CA-2025-1059,2024-07-24,2024-07-27,Home Office,East,California,Los Angeles,Technology,Phones,Phones Model-462,2,41.96,5.41
+CA-2025-1060,2024-03-21,2024-03-22,Consumer,East,Illinois,Los Angeles,Technology,Machines,Machines Model-536,6,1574.61,117.18
+CA-2025-1061,2024-02-19,2024-02-20,Home Office,East,Illinois,Miami,Office Supplies,Paper,Paper Model-769,2,431.53,46.55
+CA-2025-1062,2024-12-25,2024-12-29,Corporate,East,New York,Chicago,Furniture,Chairs,Chairs Model-650,3,736.63,255.03
+CA-2025-1063,2024-01-02,2024-01-05,Consumer,East,Illinois,Chicago,Furniture,Tables,Tables Model-181,6,1929.74,650.01
+CA-2025-1064,2024-02-23,2024-02-26,Home Office,Central,California,Miami,Office Supplies,Binders,Binders Model-455,5,1328.55,430.51
+CA-2025-1065,2024-04-15,2024-04-21,Home Office,Central,Texas,Seattle,Technology,Accessories,Accessories Model-357,8,691.31,174.71
+CA-2025-1066,2024-09-16,2024-09-22,Corporate,East,New York,Los Angeles,Office Supplies,Paper,Paper Model-817,9,1413.84,84.38
+CA-2025-1067,2024-11-05,2024-11-11,Consumer,South,Texas,Los Angeles,Technology,Accessories,Accessories Model-688,3,1092.72,93.38
+CA-2025-1068,2024-07-09,2024-07-15,Consumer,West,New York,Seattle,Furniture,Chairs,Chairs Model-623,3,937.74,138.15
+CA-2025-1069,2024-08-05,2024-08-11,Home Office,East,Washington,Chicago,Technology,Machines,Machines Model-394,3,694.57,190.13
+CA-2025-1070,2024-02-13,2024-02-19,Consumer,South,Florida,New York,Office Supplies,Binders,Binders Model-323,6,702.87,-48.55
+CA-2025-1071,2024-06-10,2024-06-15,Home Office,West,Washington,New York,Furniture,Chairs,Chairs Model-624,1,134.78,12.26
+CA-2025-1072,2024-07-20,2024-07-23,Consumer,East,Illinois,New York,Office Supplies,Paper,Paper Model-145,7,2087.01,-131.11
+CA-2025-1073,2024-09-26,2024-10-02,Home Office,East,Texas,Chicago,Office Supplies,Binders,Binders Model-766,1,343.45,45.2
+CA-2025-1074,2024-12-16,2024-12-19,Consumer,Central,Illinois,Chicago,Technology,Accessories,Accessories Model-212,5,1375.71,418.91
+CA-2025-1075,2024-10-30,2024-11-02,Corporate,West,Florida,Seattle,Office Supplies,Storage,Storage Model-332,8,2620.97,660.79
+CA-2025-1076,2024-09-27,2024-09-29,Consumer,West,New York,Los Angeles,Technology,Machines,Machines Model-116,4,1245.32,3.15
+CA-2025-1077,2024-08-02,2024-08-07,Consumer,South,Florida,Seattle,Furniture,Bookcases,Bookcases Model-459,5,384.44,130.4
+CA-2025-1078,2024-09-08,2024-09-14,Corporate,Central,California,Seattle,Technology,Phones,Phones Model-322,4,724.4,145.1
+CA-2025-1079,2024-07-08,2024-07-09,Consumer,Central,Florida,Chicago,Furniture,Tables,Tables Model-965,4,312.54,-29.79
+CA-2025-1080,2024-10-22,2024-10-26,Corporate,Central,California,New York,Technology,Machines,Machines Model-799,8,875.12,13.07
+CA-2025-1081,2024-07-31,2024-08-01,Consumer,Central,Florida,Houston,Office Supplies,Paper,Paper Model-547,2,700.64,12.14
+CA-2025-1082,2024-07-26,2024-07-31,Home Office,West,California,Los Angeles,Technology,Accessories,Accessories Model-955,1,199.7,-13.75
+CA-2025-1083,2024-08-24,2024-08-28,Home Office,West,Texas,Chicago,Technology,Machines,Machines Model-464,3,670.31,222.49
+CA-2025-1084,2024-12-03,2024-12-08,Consumer,East,Illinois,New York,Furniture,Chairs,Chairs Model-774,9,790.29,91.05
+CA-2025-1085,2024-02-22,2024-02-25,Consumer,East,Illinois,Houston,Office Supplies,Storage,Storage Model-425,4,554.65,168.12
+CA-2025-1086,2024-10-06,2024-10-10,Consumer,Central,Washington,Houston,Technology,Accessories,Accessories Model-566,5,537.47,24.18
+CA-2025-1087,2024-08-04,2024-08-07,Home Office,Central,Illinois,Chicago,Office Supplies,Binders,Binders Model-513,2,196.7,-8.58
+CA-2025-1088,2024-09-08,2024-09-09,Consumer,Central,New York,Miami,Technology,Accessories,Accessories Model-554,4,1049.7,119.09
+CA-2025-1089,2024-07-06,2024-07-07,Home Office,East,Florida,Los Angeles,Technology,Accessories,Accessories Model-685,2,235.23,-11.46
+CA-2025-1090,2024-02-10,2024-02-14,Corporate,South,Washington,Houston,Office Supplies,Storage,Storage Model-332,2,520.33,61.77
+CA-2025-1091,2024-06-05,2024-06-09,Home Office,South,New York,Chicago,Technology,Machines,Machines Model-323,4,168.85,53.04
+CA-2025-1092,2024-01-15,2024-01-21,Home Office,East,New York,Chicago,Office Supplies,Binders,Binders Model-930,6,443.25,59.55
+CA-2025-1093,2024-10-27,2024-11-01,Corporate,East,California,New York,Technology,Accessories,Accessories Model-511,7,870.28,154.41
+CA-2025-1094,2024-03-05,2024-03-11,Home Office,East,Illinois,Miami,Furniture,Chairs,Chairs Model-671,3,740.63,-21.86
+CA-2025-1095,2024-12-10,2024-12-15,Consumer,East,Texas,Los Angeles,Office Supplies,Storage,Storage Model-434,3,830.46,-66.7
+CA-2025-1096,2024-11-22,2024-11-28,Consumer,East,Texas,Seattle,Technology,Accessories,Accessories Model-321,6,1129.39,-56.62
+CA-2025-1097,2024-01-09,2024-01-12,Home Office,East,Washington,New York,Technology,Phones,Phones Model-136,3,568.2,96.22
+CA-2025-1098,2024-12-09,2024-12-13,Consumer,Central,Texas,Houston,Furniture,Bookcases,Bookcases Model-377,2,590.63,-33.81
+CA-2025-1099,2024-05-08,2024-05-09,Home Office,Central,Florida,Houston,Office Supplies,Paper,Paper Model-295,8,208.1,14.4
+CA-2025-1100,2024-05-15,2024-05-20,Consumer,Central,Texas,New York,Technology,Accessories,Accessories Model-963,5,748.07,110.37
+CA-2025-1101,2024-03-03,2024-03-08,Consumer,Central,Washington,Chicago,Furniture,Chairs,Chairs Model-583,1,331.11,24.8
+CA-2025-1102,2024-05-18,2024-05-19,Home Office,East,Texas,Houston,Technology,Accessories,Accessories Model-341,3,747.67,-19.7
+CA-2025-1103,2024-03-21,2024-03-27,Consumer,South,Florida,Miami,Office Supplies,Storage,Storage Model-423,8,1185.17,27.5
+CA-2025-1104,2024-06-11,2024-06-16,Home Office,West,California,Los Angeles,Technology,Phones,Phones Model-830,4,1456.4,462.76
+CA-2025-1105,2024-10-15,2024-10-18,Consumer,East,Washington,Miami,Technology,Machines,Machines Model-291,7,2195.18,448.24
+CA-2025-1106,2024-09-17,2024-09-21,Consumer,West,California,Houston,Technology,Accessories,Accessories Model-116,2,241.32,29.74
+CA-2025-1107,2024-08-18,2024-08-19,Corporate,South,California,Seattle,Technology,Machines,Machines Model-623,7,1856.47,-175.02
+CA-2025-1108,2024-02-10,2024-02-14,Corporate,Central,California,Los Angeles,Furniture,Chairs,Chairs Model-500,5,1231.93,426.97
+CA-2025-1109,2024-01-28,2024-02-02,Home Office,South,New York,Los Angeles,Furniture,Tables,Tables Model-985,5,862.26,174.31
+CA-2025-1110,2024-05-14,2024-05-19,Corporate,East,Illinois,New York,Office Supplies,Storage,Storage Model-804,6,956.66,40.77
+CA-2025-1111,2024-07-19,2024-07-20,Home Office,Central,New York,New York,Furniture,Chairs,Chairs Model-121,9,1354.98,400.63
+CA-2025-1112,2024-11-23,2024-11-26,Corporate,East,Illinois,Seattle,Furniture,Bookcases,Bookcases Model-573,6,1527.12,24.88
+CA-2025-1113,2024-09-24,2024-09-26,Consumer,Central,California,Chicago,Office Supplies,Storage,Storage Model-219,8,1504.93,217.93
+CA-2025-1114,2024-02-02,2024-02-03,Home Office,West,Washington,Los Angeles,Furniture,Tables,Tables Model-309,7,2352.76,438.16
+CA-2025-1115,2024-02-17,2024-02-19,Home Office,West,Illinois,Seattle,Furniture,Tables,Tables Model-405,9,2470.04,-1.29
+CA-2025-1116,2024-03-02,2024-03-08,Consumer,West,Florida,New York,Office Supplies,Paper,Paper Model-369,4,186.3,63.39
+CA-2025-1117,2024-08-03,2024-08-05,Home Office,South,Florida,New York,Office Supplies,Storage,Storage Model-803,2,526.53,124.62
+CA-2025-1118,2024-10-19,2024-10-22,Home Office,East,Texas,Los Angeles,Office Supplies,Paper,Paper Model-786,7,861.25,130.06
+CA-2025-1119,2024-04-08,2024-04-14,Corporate,South,Illinois,Miami,Technology,Accessories,Accessories Model-384,6,1471.61,-27.57
+CA-2025-1120,2024-06-20,2024-06-22,Home Office,West,Washington,Houston,Technology,Phones,Phones Model-815,1,278.45,-21.1
+CA-2025-1121,2024-12-25,2024-12-31,Consumer,East,New York,New York,Office Supplies,Binders,Binders Model-775,9,969.44,42.68
+CA-2025-1122,2024-08-01,2024-08-03,Corporate,West,California,Chicago,Office Supplies,Binders,Binders Model-862,9,1742.46,416.33
+CA-2025-1123,2024-02-04,2024-02-07,Corporate,South,Texas,Chicago,Office Supplies,Binders,Binders Model-326,2,184.65,3.91
+CA-2025-1124,2024-08-14,2024-08-16,Consumer,South,Florida,New York,Technology,Accessories,Accessories Model-480,3,119.67,17.09
+CA-2025-1125,2024-04-10,2024-04-12,Consumer,South,New York,Miami,Technology,Accessories,Accessories Model-559,5,819.11,186.41
+CA-2025-1126,2024-05-10,2024-05-12,Corporate,West,New York,Miami,Furniture,Tables,Tables Model-106,5,789.59,-40.6
+CA-2025-1127,2024-09-13,2024-09-14,Home Office,East,California,Seattle,Furniture,Bookcases,Bookcases Model-128,1,398.28,83.0
+CA-2025-1128,2024-01-05,2024-01-06,Corporate,East,Illinois,Chicago,Office Supplies,Paper,Paper Model-132,8,1516.91,-88.98
+CA-2025-1129,2024-08-05,2024-08-06,Consumer,West,Florida,Seattle,Technology,Machines,Machines Model-745,8,1174.05,392.49
+CA-2025-1130,2024-09-11,2024-09-14,Corporate,East,Washington,Chicago,Technology,Machines,Machines Model-978,4,962.32,115.26
+CA-2025-1131,2024-12-24,2024-12-30,Consumer,West,New York,Houston,Technology,Accessories,Accessories Model-178,7,376.12,-12.11
+CA-2025-1132,2024-10-09,2024-10-14,Corporate,East,California,Houston,Office Supplies,Storage,Storage Model-558,3,1156.3,62.52
+CA-2025-1133,2024-07-25,2024-07-27,Home Office,Central,Washington,Los Angeles,Furniture,Bookcases,Bookcases Model-669,6,1567.71,134.88
+CA-2025-1134,2024-01-15,2024-01-17,Corporate,Central,Illinois,Seattle,Office Supplies,Paper,Paper Model-637,9,2761.55,666.04
+CA-2025-1135,2024-12-11,2024-12-14,Corporate,South,Florida,New York,Furniture,Bookcases,Bookcases Model-581,1,84.78,19.88
+CA-2025-1136,2024-02-11,2024-02-13,Consumer,Central,Illinois,Seattle,Furniture,Chairs,Chairs Model-529,5,878.01,153.98
+CA-2025-1137,2024-06-27,2024-06-28,Consumer,Central,New York,New York,Office Supplies,Binders,Binders Model-837,4,722.49,-37.81
+CA-2025-1138,2024-03-03,2024-03-08,Consumer,Central,Washington,Miami,Furniture,Chairs,Chairs Model-384,8,2658.29,-84.52
+CA-2025-1139,2024-12-17,2024-12-21,Corporate,West,Washington,Seattle,Furniture,Tables,Tables Model-615,1,20.47,-1.18
+CA-2025-1140,2024-08-18,2024-08-20,Home Office,Central,Washington,Miami,Technology,Accessories,Accessories Model-198,9,1208.92,193.1
+CA-2025-1141,2024-08-28,2024-08-29,Consumer,Central,New York,Houston,Furniture,Tables,Tables Model-496,6,2357.22,694.7
+CA-2025-1142,2024-02-21,2024-02-25,Consumer,South,New York,Houston,Office Supplies,Binders,Binders Model-588,4,801.83,76.34
+CA-2025-1143,2024-04-05,2024-04-10,Corporate,Central,Illinois,Los Angeles,Office Supplies,Binders,Binders Model-138,9,1488.24,-41.1
+CA-2025-1144,2024-08-09,2024-08-13,Consumer,Central,Texas,Seattle,Furniture,Tables,Tables Model-370,5,327.68,49.52
+CA-2025-1145,2024-08-18,2024-08-19,Home Office,East,Illinois,Miami,Technology,Accessories,Accessories Model-986,5,1950.91,517.55
+CA-2025-1146,2024-08-24,2024-08-30,Home Office,South,Florida,New York,Technology,Accessories,Accessories Model-896,5,138.05,32.27
+CA-2025-1147,2024-05-22,2024-05-28,Consumer,South,California,Houston,Furniture,Tables,Tables Model-256,1,300.13,89.03
+CA-2025-1148,2024-06-19,2024-06-23,Consumer,South,Washington,Houston,Furniture,Tables,Tables Model-174,1,312.07,7.82
+CA-2025-1149,2024-01-29,2024-02-01,Corporate,South,Texas,New York,Office Supplies,Binders,Binders Model-983,8,900.72,-11.46
+CA-2025-1150,2024-02-05,2024-02-09,Home Office,South,California,Miami,Furniture,Tables,Tables Model-899,8,2201.54,651.47
+CA-2025-1151,2024-01-13,2024-01-15,Home Office,South,Texas,Miami,Technology,Machines,Machines Model-229,6,331.88,65.02
+CA-2025-1152,2024-06-08,2024-06-10,Consumer,West,Illinois,Seattle,Furniture,Bookcases,Bookcases Model-786,4,470.71,18.79
+CA-2025-1153,2024-11-22,2024-11-28,Corporate,Central,New York,Seattle,Office Supplies,Binders,Binders Model-183,2,638.81,149.52
+CA-2025-1154,2024-07-05,2024-07-08,Home Office,South,Washington,Chicago,Office Supplies,Storage,Storage Model-121,2,697.16,186.0
+CA-2025-1155,2024-08-30,2024-08-31,Home Office,Central,Illinois,Chicago,Office Supplies,Paper,Paper Model-558,9,2261.02,399.61
+CA-2025-1156,2024-03-26,2024-03-28,Corporate,Central,California,Los Angeles,Office Supplies,Binders,Binders Model-638,5,1062.99,222.75
+CA-2025-1157,2024-10-10,2024-10-16,Corporate,West,California,Houston,Office Supplies,Storage,Storage Model-806,4,322.14,22.18
+CA-2025-1158,2024-03-06,2024-03-11,Home Office,South,California,Seattle,Furniture,Chairs,Chairs Model-948,1,43.98,6.26
+CA-2025-1159,2024-06-18,2024-06-24,Home Office,East,California,Miami,Furniture,Tables,Tables Model-481,7,452.95,61.54
+CA-2025-1160,2024-02-14,2024-02-16,Corporate,West,California,New York,Furniture,Bookcases,Bookcases Model-847,3,319.19,89.89
+CA-2025-1161,2024-03-02,2024-03-04,Home Office,East,Texas,Miami,Furniture,Chairs,Chairs Model-539,6,899.02,249.91
+CA-2025-1162,2024-05-13,2024-05-19,Consumer,Central,Illinois,Houston,Office Supplies,Storage,Storage Model-703,5,823.73,226.28
+CA-2025-1163,2024-10-10,2024-10-11,Consumer,Central,Washington,Chicago,Technology,Machines,Machines Model-120,5,758.01,-72.04
+CA-2025-1164,2024-01-28,2024-02-01,Corporate,West,New York,Miami,Furniture,Chairs,Chairs Model-402,5,554.21,131.51
+CA-2025-1165,2024-04-17,2024-04-19,Corporate,West,New York,Los Angeles,Technology,Phones,Phones Model-968,1,213.7,51.59
+CA-2025-1166,2024-02-13,2024-02-19,Corporate,East,Illinois,Houston,Furniture,Tables,Tables Model-183,1,333.61,68.48
+CA-2025-1167,2024-12-05,2024-12-11,Consumer,South,Illinois,Chicago,Furniture,Bookcases,Bookcases Model-873,3,378.86,91.05
+CA-2025-1168,2024-10-12,2024-10-15,Home Office,East,New York,New York,Technology,Phones,Phones Model-758,4,1512.43,421.8
+CA-2025-1169,2024-11-26,2024-11-30,Consumer,West,New York,Chicago,Office Supplies,Storage,Storage Model-552,5,1759.34,196.42
+CA-2025-1170,2024-05-07,2024-05-12,Home Office,East,Texas,Los Angeles,Furniture,Tables,Tables Model-486,2,162.94,20.52
+CA-2025-1171,2024-12-13,2024-12-14,Consumer,West,Florida,Houston,Furniture,Tables,Tables Model-606,8,2550.28,-111.9
+CA-2025-1172,2024-08-18,2024-08-23,Home Office,East,Washington,New York,Furniture,Bookcases,Bookcases Model-356,2,476.69,35.0
+CA-2025-1173,2024-07-08,2024-07-12,Consumer,West,California,Los Angeles,Technology,Machines,Machines Model-669,9,2117.69,401.33
+CA-2025-1174,2024-08-12,2024-08-16,Corporate,West,Florida,Chicago,Office Supplies,Binders,Binders Model-991,2,337.19,84.7
+CA-2025-1175,2024-10-09,2024-10-13,Consumer,West,Illinois,Los Angeles,Technology,Phones,Phones Model-626,9,1893.94,-4.27
+CA-2025-1176,2024-04-30,2024-05-05,Home Office,South,New York,Houston,Technology,Machines,Machines Model-261,7,1196.5,-45.44
+CA-2025-1177,2024-04-25,2024-04-29,Consumer,East,Florida,Seattle,Office Supplies,Storage,Storage Model-262,8,1800.79,357.22
+CA-2025-1178,2024-08-20,2024-08-26,Consumer,East,Washington,Los Angeles,Technology,Phones,Phones Model-931,2,517.24,-51.29
+CA-2025-1179,2024-09-15,2024-09-20,Consumer,East,Illinois,Los Angeles,Office Supplies,Paper,Paper Model-892,7,1933.65,-38.16
+CA-2025-1180,2024-12-24,2024-12-28,Corporate,West,California,Chicago,Furniture,Bookcases,Bookcases Model-891,6,1334.06,-115.95
+CA-2025-1181,2024-07-16,2024-07-22,Consumer,East,California,Chicago,Office Supplies,Binders,Binders Model-623,4,1176.56,-29.3
+CA-2025-1182,2024-05-16,2024-05-19,Corporate,East,Washington,New York,Furniture,Chairs,Chairs Model-885,7,515.8,-9.49
+CA-2025-1183,2024-11-13,2024-11-17,Corporate,West,Washington,Chicago,Technology,Accessories,Accessories Model-370,4,402.21,29.95
+CA-2025-1184,2024-06-13,2024-06-18,Consumer,Central,New York,Miami,Technology,Phones,Phones Model-591,2,662.24,53.67
+CA-2025-1185,2024-08-12,2024-08-14,Consumer,West,California,Houston,Furniture,Bookcases,Bookcases Model-307,7,997.92,292.81
+CA-2025-1186,2024-11-02,2024-11-06,Consumer,East,Illinois,Houston,Technology,Accessories,Accessories Model-638,8,229.6,29.74
+CA-2025-1187,2024-08-21,2024-08-23,Home Office,West,Florida,Seattle,Office Supplies,Storage,Storage Model-683,2,156.88,35.38
+CA-2025-1188,2024-06-20,2024-06-26,Consumer,Central,Illinois,Seattle,Furniture,Chairs,Chairs Model-159,5,524.87,-27.89
+CA-2025-1189,2024-05-31,2024-06-03,Corporate,West,Texas,Houston,Technology,Machines,Machines Model-529,1,383.78,0.56
+CA-2025-1190,2024-11-10,2024-11-11,Consumer,East,Texas,Seattle,Furniture,Bookcases,Bookcases Model-756,7,1664.29,360.03
+CA-2025-1191,2024-06-08,2024-06-11,Home Office,Central,Washington,New York,Office Supplies,Storage,Storage Model-704,8,2995.5,-228.37
+CA-2025-1192,2024-04-05,2024-04-09,Consumer,South,New York,Chicago,Office Supplies,Paper,Paper Model-408,6,1431.37,170.29
+CA-2025-1193,2024-08-20,2024-08-22,Home Office,East,Texas,Houston,Technology,Accessories,Accessories Model-619,5,1010.77,171.54
+CA-2025-1194,2024-06-28,2024-06-30,Home Office,Central,California,Seattle,Office Supplies,Binders,Binders Model-690,6,835.3,142.81
+CA-2025-1195,2024-04-22,2024-04-27,Consumer,Central,Illinois,Houston,Furniture,Chairs,Chairs Model-126,2,500.84,-44.92
+CA-2025-1196,2024-11-13,2024-11-15,Corporate,South,Illinois,Miami,Office Supplies,Binders,Binders Model-785,1,72.9,3.28
+CA-2025-1197,2024-02-21,2024-02-26,Home Office,West,Washington,Los Angeles,Furniture,Tables,Tables Model-661,7,2529.38,471.53
+CA-2025-1198,2024-09-24,2024-09-30,Consumer,West,Florida,Chicago,Furniture,Tables,Tables Model-298,7,2346.02,-77.3
+CA-2025-1199,2024-10-21,2024-10-22,Consumer,East,Washington,Houston,Office Supplies,Storage,Storage Model-486,2,281.32,59.9
+CA-2025-1200,2024-04-22,2024-04-26,Corporate,South,Florida,Los Angeles,Technology,Machines,Machines Model-448,2,764.13,180.08
+CA-2025-1201,2024-04-10,2024-04-15,Home Office,West,Washington,Seattle,Office Supplies,Paper,Paper Model-792,1,333.58,114.05
+CA-2025-1202,2024-04-22,2024-04-23,Home Office,South,Washington,Los Angeles,Furniture,Chairs,Chairs Model-635,8,2185.57,-12.18
+CA-2025-1203,2024-03-21,2024-03-23,Consumer,West,Washington,Chicago,Furniture,Tables,Tables Model-927,8,530.16,143.84
+CA-2025-1204,2024-07-05,2024-07-07,Consumer,Central,Florida,Houston,Office Supplies,Paper,Paper Model-477,1,201.73,27.06
+CA-2025-1205,2024-04-22,2024-04-23,Corporate,West,Florida,Miami,Technology,Phones,Phones Model-998,8,1698.57,115.6
+CA-2025-1206,2024-01-02,2024-01-04,Corporate,South,Washington,Seattle,Technology,Accessories,Accessories Model-657,9,975.33,-43.82
+CA-2025-1207,2024-05-09,2024-05-15,Home Office,Central,Texas,Houston,Furniture,Chairs,Chairs Model-626,4,201.55,46.55
+CA-2025-1208,2024-08-07,2024-08-13,Home Office,Central,New York,Chicago,Furniture,Bookcases,Bookcases Model-252,1,315.15,1.93
+CA-2025-1209,2024-02-23,2024-02-24,Consumer,Central,New York,Seattle,Technology,Accessories,Accessories Model-833,1,66.37,4.46
+CA-2025-1210,2024-12-08,2024-12-13,Home Office,South,New York,New York,Office Supplies,Storage,Storage Model-305,3,737.49,-52.99
+CA-2025-1211,2024-08-11,2024-08-16,Corporate,East,Florida,Los Angeles,Furniture,Bookcases,Bookcases Model-554,5,1879.25,489.76
+CA-2025-1212,2024-08-12,2024-08-13,Corporate,East,Florida,Chicago,Furniture,Bookcases,Bookcases Model-372,5,1764.6,432.26
+CA-2025-1213,2024-05-05,2024-05-10,Consumer,East,Texas,New York,Technology,Machines,Machines Model-993,9,1129.91,260.02
+CA-2025-1214,2024-05-09,2024-05-14,Corporate,South,New York,Houston,Office Supplies,Paper,Paper Model-335,2,687.1,23.88
+CA-2025-1215,2024-02-22,2024-02-28,Corporate,Central,New York,Miami,Technology,Accessories,Accessories Model-951,2,40.25,-0.88
+CA-2025-1216,2024-06-20,2024-06-25,Corporate,East,Washington,Seattle,Office Supplies,Binders,Binders Model-839,6,160.33,29.97
+CA-2025-1217,2024-08-05,2024-08-08,Corporate,South,Florida,Los Angeles,Office Supplies,Storage,Storage Model-620,9,2240.73,276.23
+CA-2025-1218,2024-06-08,2024-06-12,Consumer,East,New York,Seattle,Office Supplies,Binders,Binders Model-777,1,158.62,-3.14
+CA-2025-1219,2024-07-16,2024-07-18,Consumer,West,Illinois,Houston,Furniture,Chairs,Chairs Model-930,9,1501.7,313.34
+CA-2025-1220,2024-09-03,2024-09-06,Home Office,East,Texas,Seattle,Technology,Phones,Phones Model-825,9,2110.39,730.21
+CA-2025-1221,2024-11-19,2024-11-24,Corporate,East,Illinois,Los Angeles,Technology,Machines,Machines Model-600,9,835.9,197.48
+CA-2025-1222,2024-07-21,2024-07-27,Home Office,Central,Illinois,Houston,Office Supplies,Storage,Storage Model-216,5,502.34,117.04
+CA-2025-1223,2024-07-02,2024-07-03,Consumer,South,Texas,Seattle,Furniture,Chairs,Chairs Model-485,9,1837.34,601.99
+CA-2025-1224,2024-05-02,2024-05-07,Consumer,Central,Illinois,Miami,Furniture,Bookcases,Bookcases Model-443,4,1226.47,-10.64
+CA-2025-1225,2024-09-11,2024-09-17,Consumer,Central,New York,Chicago,Technology,Accessories,Accessories Model-683,2,510.82,78.92
+CA-2025-1226,2024-10-20,2024-10-24,Consumer,Central,Florida,Houston,Furniture,Bookcases,Bookcases Model-494,6,797.97,271.98
+CA-2025-1227,2024-10-06,2024-10-11,Consumer,Central,Texas,Chicago,Furniture,Chairs,Chairs Model-163,4,734.11,-18.81
+CA-2025-1228,2024-11-20,2024-11-21,Consumer,Central,Washington,Houston,Office Supplies,Storage,Storage Model-816,6,509.12,109.52
+CA-2025-1229,2024-04-07,2024-04-13,Consumer,East,Illinois,Miami,Furniture,Chairs,Chairs Model-820,3,145.08,23.74
+CA-2025-1230,2024-07-16,2024-07-22,Corporate,Central,Texas,Chicago,Office Supplies,Paper,Paper Model-171,6,1904.55,312.19
+CA-2025-1231,2024-08-27,2024-09-02,Home Office,Central,California,New York,Technology,Machines,Machines Model-888,2,241.69,51.71
+CA-2025-1232,2024-05-23,2024-05-27,Consumer,South,California,Los Angeles,Furniture,Bookcases,Bookcases Model-373,2,175.1,55.74
+CA-2025-1233,2024-04-06,2024-04-11,Corporate,West,Florida,New York,Technology,Accessories,Accessories Model-419,9,2545.33,641.84
+CA-2025-1234,2024-07-19,2024-07-23,Corporate,East,New York,Seattle,Technology,Accessories,Accessories Model-437,7,1784.02,-133.34
+CA-2025-1235,2024-05-03,2024-05-05,Home Office,East,Florida,Miami,Furniture,Tables,Tables Model-465,3,781.84,221.83
+CA-2025-1236,2024-07-05,2024-07-07,Consumer,East,Florida,New York,Furniture,Tables,Tables Model-594,1,106.98,0.16
+CA-2025-1237,2024-11-21,2024-11-26,Home Office,Central,Florida,Houston,Technology,Machines,Machines Model-706,8,867.24,60.37
+CA-2025-1238,2024-12-14,2024-12-18,Consumer,Central,Florida,Seattle,Furniture,Chairs,Chairs Model-265,6,623.43,67.19
+CA-2025-1239,2024-09-15,2024-09-16,Corporate,Central,Washington,Seattle,Office Supplies,Storage,Storage Model-643,7,602.18,70.1
+CA-2025-1240,2024-05-27,2024-06-02,Corporate,South,Washington,New York,Office Supplies,Storage,Storage Model-110,9,2422.57,232.16
+CA-2025-1241,2024-09-08,2024-09-14,Corporate,West,Texas,New York,Furniture,Chairs,Chairs Model-400,5,1711.23,550.69
+CA-2025-1242,2024-12-11,2024-12-16,Corporate,Central,California,Miami,Technology,Phones,Phones Model-828,1,295.24,64.28
+CA-2025-1243,2024-05-26,2024-05-28,Home Office,West,Florida,Los Angeles,Furniture,Bookcases,Bookcases Model-900,7,2246.97,413.5
+CA-2025-1244,2024-05-27,2024-05-29,Consumer,South,Texas,New York,Furniture,Tables,Tables Model-201,5,869.12,-67.42
+CA-2025-1245,2024-12-17,2024-12-23,Consumer,East,California,New York,Technology,Phones,Phones Model-524,3,805.65,247.14
+CA-2025-1246,2024-07-17,2024-07-22,Home Office,Central,Illinois,Chicago,Technology,Phones,Phones Model-491,9,1391.49,430.28
+CA-2025-1247,2024-11-03,2024-11-07,Consumer,West,New York,Houston,Office Supplies,Storage,Storage Model-878,1,219.69,55.16
+CA-2025-1248,2024-05-07,2024-05-09,Corporate,West,Washington,Chicago,Technology,Phones,Phones Model-313,1,203.02,-19.66
+CA-2025-1249,2024-02-08,2024-02-12,Consumer,Central,Illinois,Chicago,Office Supplies,Binders,Binders Model-790,1,87.22,-6.47
