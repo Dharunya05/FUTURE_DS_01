@@ -12,6 +12,7 @@ To analyze e-commerce sales data and understand:
 - Sales trends over time
 
 Tools Used
+
 - Power BI
 - Data Cleaning
 - Dashboard Visualization
