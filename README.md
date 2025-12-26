@@ -17,6 +17,7 @@ Tools Used
 - Dashboard Visualization
 
 Dashboard Features
+
 ✔ Total Sales, Profit, Quantity & Orders KPIs  
 ✔ Sales by Category (Donut Chart)  
 ✔ Sales by Region (Bar Chart)  
