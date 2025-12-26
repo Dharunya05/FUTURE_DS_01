@@ -119,3 +119,8 @@ The goal is to design an interactive Power BI dashboard to analyze and visualize
 🙌 Acknowledgment
 
 Thanks to Future Interns for the opportunity to work on this project.
+
+
+⭐ Feel free to explore the dashboard and dataset!
+
+📩 For any queries, connect with me on LinkedIn.
